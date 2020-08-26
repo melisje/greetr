@@ -15,9 +15,5 @@
             "Melit\\Greetr\\": "src/"
         }
     },
-    "classmap": [
-            "database/seeds",
-            "database/factories"
-        ],
     "require": {}
 }
