@@ -1,0 +1,23 @@
+{
+    "name": "melit/greetr",
+    "description": "Greetr - A simple Laravel Package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jef Melis",
+            "email": "jef.melis@melit.be"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Melit\\Greetr\\": "src/"
+        }
+    },
+    "classmap": [
+            "database/seeds",
+            "database/factories"
+        ],
+    "require": {}
+}
